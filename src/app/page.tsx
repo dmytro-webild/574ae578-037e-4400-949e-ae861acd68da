@@ -193,7 +193,7 @@ export default function LandingPage() {
         variant: "gradient-bars"}}
       tag="צור קשר"
       title="מוכנים למעבר? דברו איתנו"
-      description="השאירו פרטים ונחזור אליכם בהקדם להצעת מחיר משתלמת."
+      description="אל תחכו לרגע האחרון, שריינו את תאריך ההובלה שלכם היום"
     />
   </div>
 
