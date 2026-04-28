@@ -50,7 +50,7 @@ export default function LandingPage() {
       description="הובלות דירה, משרדים ופריטים בודדים בפריסה ארצית. שירות מקצועי, ביטוח מלא ועמידה בזמנים."
       buttons={[
         {
-          text: "קבל הצעת מחיר בחינם היום",          href: "https://wa.me/972503733404"},
+          text: "לקבלת הצעת מחיר מהירה",          href: "https://wa.me/972503733404"},
       ]}
       mediaItems={[
         { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CybraePN5mEqc84gbnv7e85Dq8/uploaded-1777371203667-ossyuu76.png", imageAlt: "Truck" },
