@@ -214,7 +214,8 @@ export default function LandingPage() {
         },
         {
           title: "יצירת קשר",          items: [
-            { label: "טלפון: 050-1234567", href: "tel:0501234567" },
+            { label: "טלפון: 050-3733404 (אורטל)", href: "tel:0503733404" },
+            { label: "טלפון: 053-7020270 (אורי)", href: "tel:0537020270" },
           ],
         },
       ]}
