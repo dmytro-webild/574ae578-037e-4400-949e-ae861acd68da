@@ -147,7 +147,7 @@ export default function LandingPage() {
         },
       ]}
       title="מחירון הובלות"
-      description="מחירים הוגנים ושקופים."
+      description="מסלולים מותאמים אישית לכל צורך – מחיר ללא הפתעות"
     />
   </div>
 
