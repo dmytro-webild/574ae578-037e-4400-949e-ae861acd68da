@@ -53,12 +53,9 @@ export default function LandingPage() {
           text: "קבל הצעת מחיר בחינם היום",          href: "https://wa.me/972503733404"},
       ]}
       mediaItems={[
-        { imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-delivery-man-wearing-mask_23-2149035864.jpg", imageAlt: "Truck" },
-        { imageSrc: "http://img.b2bpic.net/free-photo/close-up-delivery-man-holding-box_23-2149035877.jpg", imageAlt: "Truck" },
-        { imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-delivery-people_23-2149103416.jpg", imageAlt: "Truck" },
-        { imageSrc: "http://img.b2bpic.net/free-photo/romantic-people-relaxing-together-living-room-floor-talking-about-decorations-future-family-enjoying-relocation-taking-break-after-moving-relationship-achievement-top-view_482257-44774.jpg", imageAlt: "Truck" },
-        { imageSrc: "http://img.b2bpic.net/free-photo/young-delivery-man-closing-delivery-truck-doors_23-2148944604.jpg", imageAlt: "Truck" },
-        { imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-delivery-man-holding-box_23-2149103440.jpg", imageAlt: "Truck" },
+        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CybraePN5mEqc84gbnv7e85Dq8/uploaded-1777371203667-ossyuu76.png", imageAlt: "Truck" },
+        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CybraePN5mEqc84gbnv7e85Dq8/uploaded-1777371203667-7cc5hxdk.png", imageAlt: "Truck" },
+        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CybraePN5mEqc84gbnv7e85Dq8/uploaded-1777371203667-zhi62460.png", imageAlt: "Truck" },
       ]}
     />
   </div>
@@ -95,7 +92,7 @@ export default function LandingPage() {
           imageSrc: "http://img.b2bpic.net/free-photo/young-family-moving-into-new-home_23-2149196337.jpg"},
         {
           title: "ביטוח מלא",          description: "התכולה שלכם מבוטחת לכל אורך הדרך.",          buttonIcon: Shield,
-          imageSrc: "http://img.b2bpic.net/free-photo/folder-overlay-word-young-people_53876-167130.jpg"},
+          imageSrc: "http://img.b2bpic.net/folder-overlay-word-young-people_53876-167130.jpg"},
         {
           title: "שירותי אחסנה",          description: "מחסנים מאובטחים לכל טווח זמן שתצטרכו.",          buttonIcon: Warehouse,
           imageSrc: "http://img.b2bpic.net/free-photo/business-owner-manager-scanning-boxes-barcode-using-store-scanner-listening-music-warehouse-inventory-employee-looking-storehouse-shelves-preparing-customers-orders-delivery_482257-73207.jpg"},
