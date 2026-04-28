@@ -158,11 +158,11 @@ export default function LandingPage() {
       rating={5}
       author="ישראל כהן"
       avatars={[
-        { src: "http://img.b2bpic.net/free-photo/young-man-standing-near-girlfriend-with-notebook_23-2147894739.jpg", alt: "User 1" },
-        { src: "http://img.b2bpic.net/free-photo/storehouse-employees-preparing-customers-packages-putting-order-cardboard-box-wrapped-with-bubble-wrap-while-discussing-shipping-detalies-diverse-team-working-delivery-department-warehouse_482257-66361.jpg", alt: "User 2" },
-        { src: "http://img.b2bpic.net/free-photo/happy-young-latin-woman-unpacking-things-her-new-apartment-opening-carton-box_74855-10209.jpg", alt: "User 3" },
-        { src: "http://img.b2bpic.net/free-photo/person-presenting-their-job-resignation_23-2149445151.jpg", alt: "User 4" },
-        { src: "http://img.b2bpic.net/free-photo/woman-carrying-box-with-items-new-apartment_329181-129.jpg", alt: "User 5" },
+        { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CybraePN5mEqc84gbnv7e85Dq8/uploaded-1777371575879-ckyq4pme.png", alt: "User 1" },
+        { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CybraePN5mEqc84gbnv7e85Dq8/uploaded-1777371575880-2brcidrg.png", alt: "User 2" },
+        { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CybraePN5mEqc84gbnv7e85Dq8/uploaded-1777371575880-73xreott.png", alt: "User 3" },
+        { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CybraePN5mEqc84gbnv7e85Dq8/uploaded-1777371575880-nuzaaz1q.png", alt: "User 4" },
+        { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CybraePN5mEqc84gbnv7e85Dq8/uploaded-1777371575880-qqmoqdpz.png", alt: "User 5" },
       ]}
       ratingAnimation="slide-up"
       avatarsAnimation="slide-up"
