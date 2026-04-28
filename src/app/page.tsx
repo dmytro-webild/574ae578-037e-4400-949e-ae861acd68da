@@ -37,6 +37,7 @@ export default function LandingPage() {
         { name: "שירותים", id: "features" },
         { name: "מחירון", id: "pricing" },
         { name: "צור קשר", id: "contact" },
+        { name: "בלוג", id: "/blog" },
       ]}
       brandName="אורטל הובלות"
     />
@@ -89,13 +90,13 @@ export default function LandingPage() {
           imageSrc: "http://img.b2bpic.net/free-photo/man-with-adhesive-tape-packing-boxes_329181-19955.jpg"},
         {
           title: "צוות מקצועי",          description: "צוות סבלים מיומן שעובד בזהירות מרבית.",          buttonIcon: Users,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-family-moving-into-new-home_23-2149196337.jpg"},
+          imageSrc: "http://img.b2bpic.net/young-family-moving-into-new-home_23-2149196337.jpg"},
         {
           title: "ביטוח מלא",          description: "התכולה שלכם מבוטחת לכל אורך הדרך.",          buttonIcon: Shield,
           imageSrc: "http://img.b2bpic.net/folder-overlay-word-young-people_53876-167130.jpg"},
         {
           title: "שירותי אחסנה",          description: "מחסנים מאובטחים לכל טווח זמן שתצטרכו.",          buttonIcon: Warehouse,
-          imageSrc: "http://img.b2bpic.net/free-photo/business-owner-manager-scanning-boxes-barcode-using-store-scanner-listening-music-warehouse-inventory-employee-looking-storehouse-shelves-preparing-customers-orders-delivery_482257-73207.jpg"},
+          imageSrc: "http://img.b2bpic.net/business-owner-manager-scanning-boxes-barcode-using-store-scanner-listening-music-warehouse-inventory-employee-looking-storehouse-shelves-preparing-customers-orders-delivery_482257-73207.jpg"},
       ]}
       title="השירותים שלנו"
       description="פתרונות לוגיסטיים מותאמים אישית לכל לקוח."
@@ -110,17 +111,17 @@ export default function LandingPage() {
       useInvertedBackground={true}
       products={[
         {
-          id: "1",          name: "קרטון גדול",          price: "10 ₪",          imageSrc: "http://img.b2bpic.net/free-photo/woman-handling-belongings-cardboard-boxes-moving-new-house_23-2149086799.jpg"},
+          id: "1",          name: "קרטון גדול",          price: "10 ₪",          imageSrc: "http://img.b2bpic.net/woman-handling-belongings-cardboard-boxes-moving-new-house_23-2149086799.jpg"},
         {
-          id: "2",          name: "פצפצים",          price: "25 ₪",          imageSrc: "http://img.b2bpic.net/free-photo/side-view-unrecognizable-postwoman-red-cap-holding-parcels-cropped-female-courier-with-walking-street-delivering-express-order-cardboard-boxes-delivery-service-post-concept_74855-12010.jpg"},
+          id: "2",          name: "פצפצים",          price: "25 ₪",          imageSrc: "http://img.b2bpic.net/side-view-unrecognizable-postwoman-red-cap-holding-parcels-cropped-female-courier-with-walking-street-delivering-express-order-cardboard-boxes-delivery-service-post-concept_74855-12010.jpg"},
         {
-          id: "3",          name: "סרט הדבקה",          price: "5 ₪",          imageSrc: "http://img.b2bpic.net/free-photo/close-up-male-hands-sealing-cardboard-box-using-adhesive-tape-getting-ready-move-out_482257-135008.jpg"},
+          id: "3",          name: "סרט הדבקה",          price: "5 ₪",          imageSrc: "http://img.b2bpic.net/close-up-male-hands-sealing-cardboard-box-using-adhesive-tape-getting-ready-move-out_482257-135008.jpg"},
         {
           id: "4",          name: "כיסוי מזרן",          price: "30 ₪",          imageSrc: "http://img.b2bpic.net/black-man-moving-furniture_53876-20674.jpg"},
         {
-          id: "5",          name: "שמיכת הובלה",          price: "40 ₪",          imageSrc: "http://img.b2bpic.net/free-photo/couple-moving-into-new-house_53876-48891.jpg"},
+          id: "5",          name: "שמיכת הובלה",          price: "40 ₪",          imageSrc: "http://img.b2bpic.net/couple-moving-into-new-house_53876-48891.jpg"},
         {
-          id: "6",          name: "נייר עטיפה",          price: "15 ₪",          imageSrc: "http://img.b2bpic.net/free-photo/stationery-frame-parcel-delivery-concept_53876-128926.jpg"},
+          id: "6",          name: "נייר עטיפה",          price: "15 ₪",          imageSrc: "http://img.b2bpic.net/stationery-frame-parcel-delivery-concept_53876-128926.jpg"},
       ]}
       title="ציוד אריזה למכירה"
       description="הכל כדי שהמעבר יעבור חלק."
