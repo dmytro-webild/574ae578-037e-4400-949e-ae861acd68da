@@ -50,7 +50,7 @@ export default function LandingPage() {
       description="הובלות דירה, משרדים ופריטים בודדים בפריסה ארצית. שירות מקצועי, ביטוח מלא ועמידה בזמנים."
       buttons={[
         {
-          text: "קבל הצעת מחיר",          href: "#contact"},
+          text: "קבל הצעת מחיר בחינם היום",          href: "#contact"},
       ]}
       mediaItems={[
         { imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-delivery-man-wearing-mask_23-2149035864.jpg", imageAlt: "Truck" },
@@ -119,7 +119,7 @@ export default function LandingPage() {
         {
           id: "3",          name: "סרט הדבקה",          price: "5 ₪",          imageSrc: "http://img.b2bpic.net/free-photo/close-up-male-hands-sealing-cardboard-box-using-adhesive-tape-getting-ready-move-out_482257-135008.jpg"},
         {
-          id: "4",          name: "כיסוי מזרן",          price: "30 ₪",          imageSrc: "http://img.b2bpic.net/free-photo/black-man-moving-furniture_53876-20674.jpg"},
+          id: "4",          name: "כיסוי מזרן",          price: "30 ₪",          imageSrc: "http://img.b2bpic.net/black-man-moving-furniture_53876-20674.jpg"},
         {
           id: "5",          name: "שמיכת הובלה",          price: "40 ₪",          imageSrc: "http://img.b2bpic.net/free-photo/couple-moving-into-new-house_53876-48891.jpg"},
         {
