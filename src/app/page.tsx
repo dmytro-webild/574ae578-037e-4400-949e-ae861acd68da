@@ -50,7 +50,7 @@ export default function LandingPage() {
       description="הובלות דירה, משרדים ופריטים בודדים בפריסה ארצית. שירות מקצועי, ביטוח מלא ועמידה בזמנים."
       buttons={[
         {
-          text: "קבל הצעת מחיר בחינם היום",          href: "#contact"},
+          text: "קבל הצעת מחיר בחינם היום",          href: "https://wa.me/972503733404"},
       ]}
       mediaItems={[
         { imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-delivery-man-wearing-mask_23-2149035864.jpg", imageAlt: "Truck" },
@@ -138,15 +138,15 @@ export default function LandingPage() {
       plans={[
         {
           id: "basic",          price: "800 ₪",          name: "הובלה קטנה",          features: ["פריטים בודדים", "רכב קטן", "צוות סבלים"],
-          buttons: [{ text: "לבחירה", href: "#contact" }],
+          buttons: [{ text: "לבחירה", href: "https://wa.me/972503733404" }],
         },
         {
           id: "std",          price: "1500 ₪",          name: "הובלת דירה",          features: ["דירת 2 חדרים", "אריזה מראש", "ביטוח מלא"],
-          buttons: [{ text: "לבחירה", href: "#contact" }],
+          buttons: [{ text: "לבחירה", href: "https://wa.me/972503733404" }],
         },
         {
           id: "pro",          price: "2500 ₪",          name: "הובלת פרימיום",          features: ["דירת 4 חדרים", "אריזה מלאה", "פירוק והרכבה"],
-          buttons: [{ text: "לבחירה", href: "#contact" }],
+          buttons: [{ text: "לבחירה", href: "https://wa.me/972503733404" }],
         },
       ]}
       title="מחירון הובלות"
@@ -178,6 +178,7 @@ export default function LandingPage() {
       faqs={[
         { id: "1", title: "האם אתם מציעים ביטוח?", content: "כן, כל התכולה מבוטחת בזמן המעבר." },
         { id: "4", title: "מה כולל הביטוח?", content: "הביטוח שלנו מכסה נזקים לרכוש במהלך ההובלה, פירוק והרכבה, ואובדן תכולה, ומבטיח לכם שקט נפשי מלא." },
+        { id: "5", title: "האם יש כיסוי לנזקים שנגרמו בגלל תאונה?", content: "כן, הביטוח שלנו כולל כיסוי מלא במקרה של תאונה במהלך הנסיעה או ההובלה." },
         { id: "2", title: "כמה זמן מראש צריך להזמין?", content: "מומלץ להזמין לפחות שבועיים מראש." },
         { id: "3", title: "האם אתם עושים פירוק רהיטים?", content: "כן, יש לנו שירות פירוק והרכבה לכל סוגי הרהיטים." },
       ]}
